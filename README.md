@@ -7,7 +7,7 @@
 ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## 2. Selenium WebDriver
+## Selenium WebDriver
 
 ### Step 1: Run the App Locally
 We have the "SeleniumBasicExercise" solution in the resources which has four test projects already. Your task is to create a CI workflow with GitHub Actions to run the tests automatically.
