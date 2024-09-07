@@ -1,4 +1,4 @@
-# Workshop: CI System with Selenium Tests
+# CI System with Selenium Tests
 ### This is a project for Front-End Test Automation July 2024 Course @ SoftUni
 
 [![C#](https://img.shields.io/badge/Made%20with-C%23-239120.svg)](https://learn.microsoft.com/en-us/dotnet/csharp/)
