@@ -109,9 +109,6 @@ We have the "SeleniumBasicExercise" solution in the resources which has four tes
     git push
     ```
 
-## Contributing
-Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
-
 ## License
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
 
